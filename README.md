@@ -1,10 +1,10 @@
 ### < Willian Fortes /> 🔥
 
-**Olá mundo, eu sou Fullstack Developer**
+**Hello World, I'am Fullstack Developer!**
 
-Eu sou dev focado em produto e em digitalizar e automatizar negócios,<br/>
-Na horas vagas eu sou baixista e/ou técnico de som. 🎵🎧🎸🎚
+I am dev focused on product and on digitizing and automating business,<br/>
+In my spare time I'm a bass player and/or sound technician. 🎵🎧🎸🎚
 
-- Minha stack gira em torna javascript, php e python 👨‍💻
-- Eu trabalho principalmente com Web/Mobile 💻📱
-- Meu e-mail é: willfortes.dev@gmail.com 📩
+- My stack revolves around javascript, php and python 👨‍💻
+- I work mainly with Web / Mobile 💻📱
+- My mail is: willfortes.dev@gmail.com 📩
