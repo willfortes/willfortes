@@ -1,10 +1,10 @@
 ### < Willian Fortes 🔥 /> 
 
-**Hello World, I'am Fullstack Developer!**
+**Hello World, I'm a Software Engineer!**
 
-I am dev focused on product and on digitizing and automating business,<br/>
-In my spare time I'm a bass player and/or sound technician. 🎵🎧🎸🎚
+I love to automate things, my specialty is business digitization.
+In my spare time I like to produce music. 🎵🎧🎸🎚
 
-- My stack revolves around javascript, php and python 👨‍💻
-- I work mainly with Web/Mobile 💻📱
-- My mail is: willfortes.dev@gmail.com 📩
+- My favorite stack is Python, PHP & JS
+- I really like universon web and mobile
+- My links https://beacons.ai/willfortes
