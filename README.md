@@ -1,10 +1,8 @@
 ### < Willian Fortes 🔥 /> 
 
-**Hello World, I'm a Software Engineer!**
+**Olá, eu sou Fullstack Developer!**
 
-I love to automate things, my specialty is business digitization.
-In my spare time I like to produce music. 🎵🎧🎸🎚
+Sou desenvolvedor web e estou estudando desenvolvimento mobile,
+amo automatizar coisas, minha stack gira em torno de JS, PY & PHP.
 
-- My favorite stack is Python, PHP & JS
-- I really like universe web and mobile
-- My links https://beacons.ai/willfortes
+- Meus links https://willfortes.com.br
